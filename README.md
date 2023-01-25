@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Turkish Question Answering](https://github.com/lapestand/tqa)
 
-- 🌱 I’m currently learning **Flask, Java Spring Boot, Transformers**
+- 🌱 I’m currently learning **Transformers**
 
 - 👯 I’m looking to collaborate on [Turkish Question Answering](https://github.com/lapestand/tqa)
 
